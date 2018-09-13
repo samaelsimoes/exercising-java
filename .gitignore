@@ -1,0 +1,10 @@
+*.log
+RemoteSystemsTempFiles
+.recommenders
+.metadata
+Servers
+node_modules/
+node_modules
+Diagramas de classes/
+Diagramas/
+digramaClasses/
